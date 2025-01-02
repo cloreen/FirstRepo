@@ -1,0 +1,1 @@
+Some text for next commit. This commit will be pushed to remote.
